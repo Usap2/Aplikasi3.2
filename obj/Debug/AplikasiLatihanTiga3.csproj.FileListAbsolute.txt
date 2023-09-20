@@ -1,0 +1,21 @@
+E:\22.61.0238\02\AplikasiSelamatDatang\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe.config
+E:\22.61.0238\02\AplikasiSelamatDatang\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe
+E:\22.61.0238\02\AplikasiSelamatDatang\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.pdb
+E:\22.61.0238\02\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csprojAssemblyReference.cache
+E:\22.61.0238\02\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Form1.resources
+E:\22.61.0238\02\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Properties.Resources.resources
+E:\22.61.0238\02\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.GenerateResource.cache
+E:\22.61.0238\02\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.CoreCompileInputs.cache
+E:\22.61.0238\02\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.exe
+E:\22.61.0238\02\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.pdb
+C:\Amikom 3\Pemograman Lanjutan\Praktek\02\AplikasiSelamatDatang-20230920T073109Z-001\AplikasiSelamatDatang\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe.config
+C:\Amikom 3\Pemograman Lanjutan\Praktek\02\AplikasiSelamatDatang-20230920T073109Z-001\AplikasiSelamatDatang\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe
+C:\Amikom 3\Pemograman Lanjutan\Praktek\02\AplikasiSelamatDatang-20230920T073109Z-001\AplikasiSelamatDatang\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.pdb
+C:\Amikom 3\Pemograman Lanjutan\Praktek\02\AplikasiSelamatDatang-20230920T073109Z-001\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.AssemblyReference.cache
+C:\Amikom 3\Pemograman Lanjutan\Praktek\02\AplikasiSelamatDatang-20230920T073109Z-001\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.SuggestedBindingRedirects.cache
+C:\Amikom 3\Pemograman Lanjutan\Praktek\02\AplikasiSelamatDatang-20230920T073109Z-001\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Form1.resources
+C:\Amikom 3\Pemograman Lanjutan\Praktek\02\AplikasiSelamatDatang-20230920T073109Z-001\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Properties.Resources.resources
+C:\Amikom 3\Pemograman Lanjutan\Praktek\02\AplikasiSelamatDatang-20230920T073109Z-001\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.GenerateResource.cache
+C:\Amikom 3\Pemograman Lanjutan\Praktek\02\AplikasiSelamatDatang-20230920T073109Z-001\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.CoreCompileInputs.cache
+C:\Amikom 3\Pemograman Lanjutan\Praktek\02\AplikasiSelamatDatang-20230920T073109Z-001\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.exe
+C:\Amikom 3\Pemograman Lanjutan\Praktek\02\AplikasiSelamatDatang-20230920T073109Z-001\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.pdb
